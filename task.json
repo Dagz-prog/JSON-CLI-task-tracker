@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Cook",
+        "description": "egg",
+        "status": "Done",
+        "createdAt": "2024-09-24T13:51:04.282823",
+        "updatedAt": "2024-09-24T13:51:04.282823"
+    },
+    {
+        "id": 2,
+        "title": "Run 1 mile",
+        "description": "Run",
+        "status": "Done",
+        "createdAt": "2024-09-24T14:10:09.210216",
+        "updatedAt": "2024-09-24T14:23:29.114363"
+    },
+    {
+        "id": 3,
+        "title": "Bake",
+        "description": "Bake cookie",
+        "status": "Done",
+        "createdAt": "2024-09-24T14:10:14.959444",
+        "updatedAt": "2024-09-24T14:10:14.959444"
+    }
+]
